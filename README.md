@@ -99,10 +99,15 @@ s3 = session.client('s3')
 - Polls AWS services until a resource reaches a desired state.
 - Example: ```waiter = client.get_waiter('instance_running')```
 
+![Waiters](images/Diagram4.png)
+
+
 ### Paginators
 
 - Handles large datasets by iterating over paginated API responses.
 - Example: ```paginator = client.get_paginator('list_objects_v2')```
+
+![Waiters](images/Diagram5.png)
 
 
 ## Setup and Configuration
