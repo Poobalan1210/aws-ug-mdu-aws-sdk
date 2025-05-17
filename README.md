@@ -37,6 +37,17 @@ By reducing development effort and simplifying cloud service integration, the AW
 - Internet of Things (IoT)
 - Game development
 
+## Why Use the SDK Instead of Direct API Calls?
+✅ Handles authentication (e.g., AWS credentials)
+
+✅ Manages retry logic, errors, pagination
+
+✅ Saves you from crafting low-level HTTP requests
+
+✅ Keeps you up-to-date with AWS API changes
+
+✅ Available in many languages (Python, Node.js, Java, Go, C#, etc.)
+
 ## Getting started with boto3
 
 ![Boto3](images/Diagram2.png)
