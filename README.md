@@ -1,2 +1,2 @@
-# aws-ug-mdu-aws-sdk
+# AWS SDK Session
 Repo for the AWS SDK Session
