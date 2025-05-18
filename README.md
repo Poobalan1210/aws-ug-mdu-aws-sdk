@@ -224,3 +224,4 @@ Every time a picture lands in your gallery, our smart checker takes a quick peek
 - boto3 Docs: https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 - AWS SDK Examples: https://boto3.amazonaws.com/v1/documentation/api/latest/guide/examples.html
 - AWS SDK Docs : https://aws.amazon.com/developer/tools/
+- AWS Javascript SDK - https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/
